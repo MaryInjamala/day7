@@ -4,15 +4,12 @@ public class User {
 	String name;
 	int age;
 	String area;
-
 	public String getName() {
 		return name;
 	}
-
 	public void setName(String name) {
 		this.name = name;
 	}
-
 	public int getAge() {
 		return age;
 	}
@@ -25,5 +22,8 @@ public class User {
 	public void setArea(String area) {
 		this.area = area;
 	}
+
+	
+	
 
 }
